@@ -1,0 +1,15 @@
+.dropzone{
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 25px;
+  background: whitesmoke;
+  margin-bottom: 20px;
+  border: 1px #dbdbdb dashed;
+  color: #adadad;
+}
+
+.container{
+  margin: 20px 100px;
+  padding: 20px;
+  border: 1px#dbdbdb solid;
+}
